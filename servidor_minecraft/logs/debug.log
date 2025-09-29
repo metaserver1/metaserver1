@@ -6724,3 +6724,136 @@ java.lang.ClassNotFoundException: com.aetherteam.aether.inventory.menu.Accessori
 [29Sep2025 22:33:51.449] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@38a362dd, b=27, e=53}, MinecartChest['Minecart with Chest'/153, l='ServerLevel[world]', x=309.50, y=41.06, z=472.50]=InventoryMapping{i=MinecartChest['Minecart with Chest'/153, l='ServerLevel[world]', x=309.50, y=41.06, z=472.50], c=net.minecraft.world.inventory.ChestMenu@38a362dd, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@38a362dd, b=54, e=62}}
 [29Sep2025 22:33:51.449] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=MinecartChest['Minecart with Chest'/153, l='ServerLevel[world]', x=309.50, y=41.06, z=472.50], c=net.minecraft.world.inventory.ChestMenu@38a362dd, b=0, e=26}
 [29Sep2025 22:35:26.933] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Sep2025 22:36:46.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/small_haystack
+[29Sep2025 22:36:46.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/land_warm/big_brick_3
+[29Sep2025 22:36:46.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/land_warm/connector
+[29Sep2025 22:36:46.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/land_warm/small_brick_7
+[29Sep2025 22:36:46.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/land_warm/small_brick_6
+[29Sep2025 22:36:46.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/land_warm/small_brick_8
+[29Sep2025 22:36:46.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:ruins/land_warm/small_brick_4
+[29Sep2025 22:36:53.129] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 34
+[29Sep2025 22:36:53.130] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@320794cd=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@320794cd, c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=0, e=0}, net.minecraft.world.inventory.TransientCraftingContainer@5682a909=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@5682a909, c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=36, e=44}}
+[29Sep2025 22:36:53.130] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=9, e=35}
+[29Sep2025 22:40:26.938] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Sep2025 22:41:40.118] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of villager_clock_tower:clock_tower
+[29Sep2025 22:41:40.145] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/fountain1 is being run through DFU (hash 8a061738c1ea6dcf7a97697a9438601759dd63cca92278007da49ae659225b50), this will cause launch time delays
+[29Sep2025 22:41:40.813] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:mage/tower
+[29Sep2025 22:41:40.824] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[29Sep2025 22:41:40.839] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/haystack
+[29Sep2025 22:41:42.432] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mvs:small_pillager_tower is being run through DFU (hash c3621da83d58c1ae6ac7356b6b92e0ae112de895bae56c833989db257e74f70a), this will cause launch time delays
+[29Sep2025 22:41:44.786] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[29Sep2025 22:41:44.821] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of villager_tannery:villager_tannery
+[29Sep2025 22:41:44.832] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/medium_jungle_palm
+[29Sep2025 22:41:45.278] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/small_oak_tree
+[29Sep2025 22:41:45.426] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/medium_dark_oak_tree
+[29Sep2025 22:41:45.444] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor2/graveyard_large is being run through DFU (hash 92ba7a2ed2018cc5582221d545d60179cbff2907518b264f62c1241e3288022c), this will cause launch time delays
+[29Sep2025 22:41:45.476] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/manor/large1 is being run through DFU (hash 84c64893ddb649c6ac874e677fc8173adddbfe0d587a6aeb7c9a733d52a76705), this will cause launch time delays
+[29Sep2025 22:41:45.779] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:shrine
+[29Sep2025 22:41:47.557] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/badlands_body
+[29Sep2025 22:41:47.569] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/flower_forest_body
+[29Sep2025 22:41:47.581] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/snowy_body
+[29Sep2025 22:41:47.592] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/icy_body
+[29Sep2025 22:41:47.603] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/ocean_body
+[29Sep2025 22:41:47.615] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/jungle_body
+[29Sep2025 22:41:47.622] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/dark_forest_body
+[29Sep2025 22:41:47.629] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:pyramids/giant_tree_taiga_body
+[29Sep2025 22:41:47.633] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:nature/medium_stone_rock is being run through DFU (hash 45237c39470f16e57543b8d3092208d48f4f69383a85f6e75b9f799730f3204a), this will cause launch time delays
+[29Sep2025 22:41:47.640] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/small_oak_pond
+[29Sep2025 22:41:47.645] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:nature/small_oak_pond_lower is being run through DFU (hash 27a832f432fd0cb3f75781b0b15adc4b4036cea79559f04ec141c84297a58ab4), this will cause launch time delays
+[29Sep2025 22:41:47.677] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:gallows is being run through DFU (hash 501339ffe9fa66937002619f2c8732f09bb1f274817f3e8b86fe076dc1759ba1), this will cause launch time delays
+[29Sep2025 22:41:47.692] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_1
+[29Sep2025 22:41:47.966] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/medium_birch_tree
+[29Sep2025 22:41:48.039] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/medium_jungle_tree
+[29Sep2025 22:41:48.311] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:other_decoration/fire_camp is being run through DFU (hash ef1de8b73ff6362aaa4a2322c2abb04097cafb4bead88c26b4c4b6077de706de), this will cause launch time delays
+[29Sep2025 22:41:49.973] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of swampboat:boat2
+[29Sep2025 22:41:49.984] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[29Sep2025 22:41:49.995] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:mineshafts/desert/room
+[29Sep2025 22:41:49.996] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:mineshafts/icy/room
+[29Sep2025 22:41:49.997] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:mineshafts/dark_forest/room
+[29Sep2025 22:41:49.998] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:mineshafts/jungle/room
+[29Sep2025 22:41:49.999] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:mineshafts/birch/room
+[29Sep2025 22:41:50.000] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:mineshafts/stone/room
+[29Sep2025 22:41:50.002] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:mineshafts/swamp/room
+[29Sep2025 22:41:50.044] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/small_acacia_tree
+[29Sep2025 22:41:52.748] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_7
+[29Sep2025 22:41:53.158] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/medium_spruce_tree
+[29Sep2025 22:41:55.090] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 23
+[29Sep2025 22:41:55.090] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4ff24d41, b=27, e=53}, net.minecraft.world.level.block.entity.ChestBlockEntity@eaaa0ac=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@eaaa0ac, c=net.minecraft.world.inventory.ChestMenu@4ff24d41, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4ff24d41, b=54, e=62}}
+[29Sep2025 22:41:55.090] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@eaaa0ac, c=net.minecraft.world.inventory.ChestMenu@4ff24d41, b=0, e=26}
+[29Sep2025 22:41:58.422] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/base_2
+[29Sep2025 22:41:59.367] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/small_cherry_tree
+[29Sep2025 22:42:04.832] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/castle
+[29Sep2025 22:42:04.849] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:village/fortified/start_castle is being run through DFU (hash 6f4590aebb6753de05226c0d12fb8db277493b3c90da83f6e18fd394b95a53d5), this will cause launch time delays
+[29Sep2025 22:42:09.628] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/ruin2 is being run through DFU (hash 12b31365ec9be38387155c9a31846fc9cffeaa35f51bfa9f3ff91fc3ebe81cb7), this will cause launch time delays
+[29Sep2025 22:42:09.637] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house1 is being run through DFU (hash 5fe5d206578012046219f9e32fefe21c19bf13dec500868c89102fadf2bda50d), this will cause launch time delays
+[29Sep2025 22:42:09.649] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[29Sep2025 22:42:09.673] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/castle1 is being run through DFU (hash d6f83c568aa7a1adfe056c6399d08c8baafc9cea9a44f413bef5fc69f330ddf6), this will cause launch time delays
+[29Sep2025 22:42:09.682] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[29Sep2025 22:42:10.267] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of sawmillhouse:sawmillfixed
+[29Sep2025 22:42:12.655] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of smallhorsestable:horsestable
+[29Sep2025 22:42:12.787] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/ocean
+[29Sep2025 22:42:12.792] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:temples/taiga
+[29Sep2025 22:42:15.100] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[29Sep2025 22:42:15.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/seats_1
+[29Sep2025 22:42:15.210] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/hayblocks
+[29Sep2025 22:42:15.210] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/animal_pen
+[29Sep2025 22:42:15.210] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/tent_2
+[29Sep2025 22:42:17.701] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:witch_huts/mangrove
+[29Sep2025 22:42:17.706] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:witch_huts/taiga
+[29Sep2025 22:42:17.712] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:witch_huts/oak
+[29Sep2025 22:42:17.717] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:witch_huts/birch
+[29Sep2025 22:42:17.721] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:witch_huts/giant_tree_taiga
+[29Sep2025 22:42:17.725] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:witch_huts/dark_forest
+[29Sep2025 22:42:22.387] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/farm_ruin/main is being run through DFU (hash 2a433cc8a35dbceb71d6d48e240e5debe839da132cb57e62083f63825e0ed678), this will cause launch time delays
+[29Sep2025 22:42:22.499] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/church is being run through DFU (hash 9a7a833f4d75bff0034b2f26d7345cb97ad46f7e4b7c0a567c07df3021fac4d0), this will cause launch time delays
+[29Sep2025 22:42:22.525] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:harvest/camp/scarecrow is being run through DFU (hash 091653853e37d1ce7d322f39f1ec95de2346967b1d481effb64451203375d9f0), this will cause launch time delays
+[29Sep2025 22:42:22.533] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/graveyard2 is being run through DFU (hash ca73f7bbc15d477d8dd303bf1691e22b3c080a0c2dab91304e22a48868227382), this will cause launch time delays
+[29Sep2025 22:42:22.551] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/medium1 is being run through DFU (hash de82b2cff3ad0b78b13b3b9c12488a18e005094ea7f613728d5e89401e31a178), this will cause launch time delays
+[29Sep2025 22:42:22.574] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/firetower
+[29Sep2025 22:42:22.579] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/2/top is being run through DFU (hash d9c00df651a9b021aa6ac1d31f47829c424db9b97513acab75bb8ea4afa18f29), this will cause launch time delays
+[29Sep2025 22:42:22.588] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:outcast_villager/desert/copper_house1 is being run through DFU (hash fed06bd7a85d00adad4f751fbe8d6b9139c446e303473274c869878db18eb991), this will cause launch time delays
+[29Sep2025 22:42:22.982] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/frog_statue1 is being run through DFU (hash fa1b8f771fb43aa22752012b436bc2adfc8caa1df22bbdf67f4c951d8f9aa55c), this will cause launch time delays
+[29Sep2025 22:42:26.211] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_5
+[29Sep2025 22:42:35.145] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:stone_fountain is being run through DFU (hash 0213404a1aa434fa15983969396acb43a08fd81bc979ca4d88a1770e87e5a9c9), this will cause launch time delays
+[29Sep2025 22:42:50.526] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/table2 is being run through DFU (hash 98c44ac53a74f4752e7efceecedc6be4efd0d612dc613942bbfbeb4f998ba6fc), this will cause launch time delays
+[29Sep2025 22:42:56.277] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 22
+[29Sep2025 22:42:56.278] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@400c856f, b=27, e=53}, net.minecraft.world.level.block.entity.ChestBlockEntity@7241dfa8=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@7241dfa8, c=net.minecraft.world.inventory.ChestMenu@400c856f, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@400c856f, b=54, e=62}}
+[29Sep2025 22:42:56.278] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@7241dfa8, c=net.minecraft.world.inventory.ChestMenu@400c856f, b=0, e=26}
+[29Sep2025 22:42:56.377] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 22
+[29Sep2025 22:42:56.377] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@400c856f, b=27, e=53}, net.minecraft.world.level.block.entity.ChestBlockEntity@7241dfa8=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@7241dfa8, c=net.minecraft.world.inventory.ChestMenu@400c856f, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@400c856f, b=54, e=62}}
+[29Sep2025 22:42:56.377] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@7241dfa8, c=net.minecraft.world.inventory.ChestMenu@400c856f, b=0, e=26}
+[29Sep2025 22:42:57.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Diamonds!]
+[29Sep2025 22:43:03.716] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 13
+[29Sep2025 22:43:03.717] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2d4ff9b6, b=27, e=53}, net.minecraft.world.level.block.entity.BarrelBlockEntity@14a54cff=InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@14a54cff, c=net.minecraft.world.inventory.ChestMenu@2d4ff9b6, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2d4ff9b6, b=54, e=62}}
+[29Sep2025 22:43:03.717] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@14a54cff, c=net.minecraft.world.inventory.ChestMenu@2d4ff9b6, b=0, e=26}
+[29Sep2025 22:43:29.614] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:horse_pen is being run through DFU (hash 6350ab8d7f99a636e57ed50b605b0f19ca2c40c9f90dfe03242972b357452966), this will cause launch time delays
+[29Sep2025 22:43:32.122] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[29Sep2025 22:43:34.516] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:lantern/small_birch
+[29Sep2025 22:43:41.705] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/mushroom/top_trapdoor
+[29Sep2025 22:43:41.722] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/stone/top_trapdoor
+[29Sep2025 22:43:41.727] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/mangrove/top_trapdoor
+[29Sep2025 22:43:41.738] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of repurposed_structures:igloos/grassy/top_trapdoor
+[29Sep2025 22:43:41.785] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/short_oak_pathway
+[29Sep2025 22:43:41.789] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[29Sep2025 22:43:41.789] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[29Sep2025 22:43:46.008] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:beach_bar is being run through DFU (hash a7868a9aacdced31984d28d3af132819528e8685937fa4d07e2c6522c0380ca9), this will cause launch time delays
+[29Sep2025 22:43:49.637] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_8
+[29Sep2025 22:44:00.209] [Worker-Main-2/DEBUG] [ModernFix/]: Structure explorations:ruins/desert_6 is being run through DFU (hash e2784670d31b8282b251e8420b9a5a3b7f5357c4a1612d7fbcb5629aa7f2b6b0), this will cause launch time delays
+[29Sep2025 22:44:12.449] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 22
+[29Sep2025 22:44:12.450] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@57624dad, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@57624dad, b=54, e=62}, net.minecraft.world.level.block.entity.BarrelBlockEntity@632a28c5=InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@632a28c5, c=net.minecraft.world.inventory.ChestMenu@57624dad, b=0, e=26}}
+[29Sep2025 22:44:12.450] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.BarrelBlockEntity@632a28c5, c=net.minecraft.world.inventory.ChestMenu@57624dad, b=0, e=26}
+[29Sep2025 22:44:27.086] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 24
+[29Sep2025 22:44:27.086] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@74c7e6e0, b=27, e=53}, net.minecraft.world.level.block.entity.ChestBlockEntity@1a60c50b=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@1a60c50b, c=net.minecraft.world.inventory.ChestMenu@74c7e6e0, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@74c7e6e0, b=54, e=62}}
+[29Sep2025 22:44:27.086] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@1a60c50b, c=net.minecraft.world.inventory.ChestMenu@74c7e6e0, b=0, e=26}
+[29Sep2025 22:44:27.220] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 24
+[29Sep2025 22:44:27.220] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@74c7e6e0, b=27, e=53}, net.minecraft.world.level.block.entity.ChestBlockEntity@1a60c50b=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@1a60c50b, c=net.minecraft.world.inventory.ChestMenu@74c7e6e0, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@74c7e6e0, b=54, e=62}}
+[29Sep2025 22:44:27.220] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@1a60c50b, c=net.minecraft.world.inventory.ChestMenu@74c7e6e0, b=0, e=26}
+[29Sep2025 22:44:51.027] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/which_witch_is_which
+[29Sep2025 22:44:51.832] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/star1 is being run through DFU (hash ff2801eed7986e8f3d02318c7ce490ae998b6d1d232f60220af7bc38630e50cb), this will cause launch time delays
+[29Sep2025 22:44:53.660] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pool_small1 is being run through DFU (hash 87d50ce9873950a4699aa3cbfd218776deeaebf21900f451d51ce9639c457bf5), this will cause launch time delays
+[29Sep2025 22:44:56.032] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:temple/temple_ruin is being run through DFU (hash 50c4d5c96013857d5845ce5c1b389a591e190334a0692bd9c7b1a28ef630be44), this will cause launch time delays
+[29Sep2025 22:45:06.799] [Netty Epoll Server IO #3/ERROR] [net.minecraft.network.Connection/]: Exception caught in connection
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[29Sep2025 22:45:06.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Disconnected
+[29Sep2025 22:45:06.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
+[29Sep2025 22:45:26.912] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

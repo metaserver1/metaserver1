@@ -32,6 +32,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "old_growth_woodland": "2025-09-29 02:10:15 +0000",
+      "mediterranean_forest": "2025-09-29 22:43:44 +0000",
       "scrubland": "2025-09-29 02:09:42 +0000"
     },
     "done": false
@@ -675,7 +676,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2025-09-29 02:15:27 +0000"
+      "minecraft:river": "2025-09-29 02:15:27 +0000",
+      "minecraft:savanna": "2025-09-29 22:41:50 +0000"
     },
     "done": false
   },
@@ -863,6 +865,7 @@
     "criteria": {
       "cooked_porkchop": "2025-09-29 22:10:54 +0000",
       "apple": "2025-09-29 02:17:09 +0000",
+      "bread": "2025-09-29 22:36:36 +0000",
       "cooked_mutton": "2025-09-29 22:27:51 +0000",
       "cooked_beef": "2025-09-29 02:21:24 +0000"
     },
@@ -1004,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-09-29 22:12:45 +0000"
@@ -1064,6 +1073,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-09-29 22:02:54 +0000"
@@ -1091,6 +1112,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-09-29 22:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
     },
     "done": true
   },
@@ -1190,6 +1217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-09-29 22:42:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-29 22:08:47 +0000"
@@ -1205,6 +1238,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-29 21:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
     },
     "done": true
   },
@@ -1244,6 +1283,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-09-29 22:42:58 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_ingot": {
     "criteria": {
       "has_item": "2025-09-29 22:09:41 +0000"
@@ -1268,9 +1313,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-09-29 21:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
     },
     "done": true
   },
@@ -1289,6 +1346,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-09-29 22:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
     },
     "done": true
   },
@@ -1319,6 +1382,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-09-29 22:13:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
     },
     "done": true
   },
@@ -1466,6 +1535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2025-09-29 22:02:30 +0000"
@@ -1520,6 +1595,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-09-29 21:57:49 +0000"
@@ -1562,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-09-29 22:02:54 +0000"
@@ -1592,9 +1679,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-09-29 22:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-29 21:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-09-29 22:42:57 +0000"
     },
     "done": true
   },
