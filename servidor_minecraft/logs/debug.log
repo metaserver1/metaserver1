@@ -6703,3 +6703,24 @@ java.lang.ClassNotFoundException: com.aetherteam.aether.inventory.menu.Accessori
 [29Sep2025 22:18:34.366] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/medium_igloo_2
 [29Sep2025 22:20:26.981] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [29Sep2025 22:25:26.959] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Sep2025 22:25:49.478] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/wheat_grain_bin
+[29Sep2025 22:25:49.511] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of whisperers_jungle_temple:update
+[29Sep2025 22:25:50.165] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/giant_bee_hive_1
+[29Sep2025 22:26:29.556] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of saloon:saloon
+[29Sep2025 22:26:30.713] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:lantern/small_oak
+[29Sep2025 22:26:30.806] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[29Sep2025 22:26:30.817] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/valley_lodge
+[29Sep2025 22:26:30.834] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/witchhut
+[29Sep2025 22:28:11.707] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:stall/red_stall is being run through DFU (hash c9f8ba5565cafa2ee56d37594a372700c101eac10a42d8d3560edf9a75f97337), this will cause launch time delays
+[29Sep2025 22:28:12.066] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/wooden_wheat_farm
+[29Sep2025 22:28:12.070] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[29Sep2025 22:28:12.260] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/small_igloo
+[29Sep2025 22:29:47.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 is bleeding. Byakko4146 was shot by Skeleton
+[29Sep2025 22:30:26.942] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Sep2025 22:32:46.361] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 33
+[29Sep2025 22:32:46.362] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=45, e=45}, net.minecraft.world.inventory.ResultContainer@320794cd=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@320794cd, c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=0, e=0}, net.minecraft.world.inventory.TransientCraftingContainer@5682a909=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@5682a909, c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=36, e=44}}
+[29Sep2025 22:32:46.362] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@4dd1cb0c, b=9, e=35}
+[29Sep2025 22:33:51.448] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 22
+[29Sep2025 22:33:51.449] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@38a362dd, b=27, e=53}, MinecartChest['Minecart with Chest'/153, l='ServerLevel[world]', x=309.50, y=41.06, z=472.50]=InventoryMapping{i=MinecartChest['Minecart with Chest'/153, l='ServerLevel[world]', x=309.50, y=41.06, z=472.50], c=net.minecraft.world.inventory.ChestMenu@38a362dd, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@38a362dd, b=54, e=62}}
+[29Sep2025 22:33:51.449] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=MinecartChest['Minecart with Chest'/153, l='ServerLevel[world]', x=309.50, y=41.06, z=472.50], c=net.minecraft.world.inventory.ChestMenu@38a362dd, b=0, e=26}
+[29Sep2025 22:35:26.933] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
