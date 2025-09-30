@@ -1038,9 +1038,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-09-30 22:24:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-30 20:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-09-30 22:24:09 +0000"
     },
     "done": true
   },
@@ -1254,6 +1266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-09-30 22:25:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-09-30 20:24:35 +0000"
@@ -1371,6 +1389,12 @@
   "ad_astra:recipes/misc/coal_generator": {
     "criteria": {
       "has_coal_generator": "2025-09-30 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-09-30 22:24:40 +0000"
     },
     "done": true
   },
@@ -1782,6 +1806,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-09-30 22:24:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_door": {
     "criteria": {
       "has_planks": "2025-09-30 22:02:38 +0000"
@@ -2022,6 +2052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-09-30 22:25:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_drakkar": {
     "criteria": {
       "in_water": "2025-09-30 20:24:35 +0000"
@@ -2211,6 +2247,12 @@
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2025-09-30 21:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-09-30 22:25:12 +0000"
     },
     "done": true
   },
@@ -2418,6 +2460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-30 22:24:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-30 20:43:00 +0000"
@@ -2559,6 +2607,12 @@
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2025-09-30 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-30 22:24:09 +0000"
     },
     "done": true
   },
