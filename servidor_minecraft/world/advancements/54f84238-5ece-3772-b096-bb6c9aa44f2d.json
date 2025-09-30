@@ -37,6 +37,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "spider_nest": "2025-09-30 20:28:18 +0000",
       "field": "2025-09-30 03:22:06 +0000",
       "orchard": "2025-09-30 02:52:40 +0000",
       "dead_forest": "2025-09-30 03:15:24 +0000",

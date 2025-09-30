@@ -446,3 +446,6 @@ java.lang.IllegalStateException: not found
 [20:23:14] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player MetaPresi. Claiming: GRAVE / Robbing: INVENTORY
 [20:23:41] [Server thread/INFO]: [Not Secure] <MetaPresi> ping please
 [20:23:49] [Server thread/INFO]: [Not Secure] <MetaPresi> joputa
+[20:26:42] [Server thread/INFO]: MetaPresi has made the advancement [Acquire Hardware]
+[20:26:46] [Server thread/INFO]: MetaPresi has made the advancement [Suit Up]
+[20:30:08] [Server thread/INFO]: [Not Secure] <MetaPresi> ping
