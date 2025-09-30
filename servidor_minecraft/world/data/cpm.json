@@ -5,15 +5,15 @@
   "skins": {},
   "player_scaling": {
     "d986ffa3-5ebb-3464-bde6-d79873dac88a": {
-      "mob_vis": 1.0,
       "motion": 1.0,
-      "defense": 1.0,
       "reach": 1.0,
-      "attack": 1.0,
+      "asp": 1.0,
       "akb": 1.0,
+      "attack": 1.0,
+      "defense": 1.0,
       "health": 1.0,
-      "kbr": 1.0,
-      "asp": 1.0
+      "mob_vis": 1.0,
+      "kbr": 1.0
     },
     "54f84238-5ece-3772-b096-bb6c9aa44f2d": {
       "motion": 1.0,
