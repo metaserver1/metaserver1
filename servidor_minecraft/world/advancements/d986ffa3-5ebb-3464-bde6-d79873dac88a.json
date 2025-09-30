@@ -39,7 +39,8 @@
     "criteria": {
       "spider_nest": "2025-09-30 20:38:24 +0000",
       "orchard": "2025-09-30 02:52:37 +0000",
-      "field": "2025-09-30 20:31:19 +0000"
+      "field": "2025-09-30 20:31:19 +0000",
+      "coniferous_forest": "2025-09-30 20:51:27 +0000"
     },
     "done": false
   },
@@ -913,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-30 20:48:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2025-09-30 20:46:45 +0000"
@@ -940,6 +947,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-30 20:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-09-30 20:55:20 +0000"
     },
     "done": true
   },
@@ -985,6 +998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-30 20:48:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-09-30 20:26:42 +0000"
@@ -994,6 +1013,12 @@
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-09-30 20:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-09-30 20:55:20 +0000"
     },
     "done": true
   },
@@ -1315,6 +1340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-30 20:48:13 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-09-30 20:26:42 +0000"
@@ -1366,6 +1397,12 @@
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-09-30 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-09-30 20:48:13 +0000"
     },
     "done": true
   },
