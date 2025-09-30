@@ -1,6 +1,0 @@
-
-#Common config settings
-[common]
-	#Enables backpacks spawning in loot chests
-	enableLoot = true
-

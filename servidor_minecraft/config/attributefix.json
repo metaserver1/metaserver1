@@ -22,11 +22,11 @@
         "value": 1024
       }
     },
-    "neoforge:entity_reach": {
+    "reach-entity-attributes:reach": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": -1024,
+        "value": -1024
       },
       "max": {
         "default": 1024,
@@ -42,50 +42,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "neoforge:step_height": {
-      "enabled": false,
-      "min": {
-        "default": -512,
-        "value": -512
-      },
-      "max": {
-        "default": 512,
-        "value": 512
-      }
-    },
-    "neoforge:nametag_distance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 64,
-        "value": 64
-      }
-    },
-    "neoforge:entity_gravity": {
-      "enabled": false,
-      "min": {
-        "default": -8,
-        "value": -8
-      },
-      "max": {
-        "default": 8,
-        "value": 8
-      }
-    },
-    "neoforge:creative_flight": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
-        "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
       }
     },
     "minecraft:generic.max_health": {
@@ -209,22 +165,11 @@
         "value": 1
       }
     },
-    "neoforge:swim_speed": {
+    "reach-entity-attributes:attack_range": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "neoforge:block_reach": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
+        "default": -1024,
+        "value": -1024
       },
       "max": {
         "default": 1024,
