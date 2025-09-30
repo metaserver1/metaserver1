@@ -507,3 +507,34 @@ java.lang.IllegalStateException: not found
 [21:31:42] [Server thread/INFO]: [Not Secure] <MetaPresi> mineshaft
 [21:32:17] [Server thread/INFO]: [Not Secure] <MetaPresi> aca
 [21:32:59] [Server thread/INFO]: [Byakko4146: Gamerule playersSleepingPercentage is now set to: 25]
+[21:42:05] [Server thread/INFO]: MetaPresi claimed a grave belonging to MetaPresi at 547, -54, 1400, minecraft:overworld
+[21:42:18] [Server thread/INFO]: [Not Secure] <MetaPresi> ah bueno
+[21:42:22] [Server thread/INFO]: [Not Secure] <Byakko4146> q
+[21:42:30] [Server thread/INFO]: [Not Secure] <MetaPresi> no tengas el inventario lleno cuando agarrás tu tumba
+[21:42:43] [Server thread/INFO]: [Not Secure] <Byakko4146> todo al piso?
+[21:42:53] [Server thread/INFO]: [Not Secure] <MetaPresi> tenía lava de frente
+[21:49:45] [Server thread/INFO]: [Not Secure] <MetaPresi> tendrás arena?
+[21:49:49] [Server thread/INFO]: [Not Secure] <Byakko4146> no
+[21:49:51] [Server thread/INFO]: [Not Secure] <MetaPresi> o 12 de vidrio
+[21:57:58] [Server thread/INFO]: Byakko4146 lost connection: Disconnected
+[21:57:58] [Server thread/INFO]: Byakko4146 left the game
+[21:58:08] [Server thread/INFO]: [Not Secure] [Server] 5 mins
+[22:06:55] [Server thread/INFO]: Byakko4146[/10.242.222.233:62488] logged in with entity id 30446 at (-18.51894426239783, 72.0, 2025.5216163717569)
+[22:06:55] [Server thread/INFO]: Loading config from file...
+[22:06:55] [Server thread/INFO]: Byakko4146 joined the game
+[22:06:55] [Netty Epoll Server IO #6/INFO]: [showmeyourskin] Client of Byakko4146 accepted server config.
+[22:06:56] [Netty Epoll Server IO #6/INFO]: Channel update: Byakko4146 -> "1"
+[22:06:56] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[22:07:53] [Server thread/INFO]: [Not Secure] <MetaPresi> che recontra nerfearon la mochila con mejora de diamante
+[22:08:22] [Server thread/INFO]: [Not Secure] <Byakko4146> de hecho, en versiones mas nuevas la buffean
+[22:10:47] [Server thread/INFO]: [Not Secure] <MetaPresi> CHICKEN JOCKEY
+[22:11:20] [Server thread/INFO]: MetaPresi has made the advancement [Sweet Dreams]
+[22:12:10] [Server thread/INFO]: [Not Secure] <MetaPresi> ya hice la casa por si querés venir
+[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
