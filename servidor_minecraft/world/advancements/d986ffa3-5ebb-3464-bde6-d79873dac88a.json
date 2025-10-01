@@ -39,16 +39,17 @@
     "criteria": {
       "spider_nest": "2025-09-30 20:38:24 +0000",
       "forested_field": "2025-10-01 19:36:42 +0000",
-      "orchard": "2025-09-30 02:52:37 +0000",
-      "field": "2025-09-30 20:31:19 +0000",
       "lavender_field": "2025-10-01 18:55:24 +0000",
-      "highland": "2025-10-01 18:19:15 +0000",
+      "shrubland": "2025-10-01 20:39:01 +0000",
       "maple_woods": "2025-10-01 18:14:31 +0000",
       "rocky_shrubland": "2025-10-01 18:35:37 +0000",
-      "coniferous_forest": "2025-09-30 20:51:27 +0000",
       "redwood_forest": "2025-10-01 18:54:45 +0000",
       "pumpkin_patch": "2025-10-01 18:17:03 +0000",
-      "grassland": "2025-10-01 18:32:02 +0000"
+      "grassland": "2025-10-01 18:32:02 +0000",
+      "orchard": "2025-09-30 02:52:37 +0000",
+      "field": "2025-09-30 20:31:19 +0000",
+      "highland": "2025-10-01 18:19:15 +0000",
+      "coniferous_forest": "2025-09-30 20:51:27 +0000"
     },
     "done": false
   },
@@ -3388,6 +3389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-01 20:35:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
     "criteria": {
       "has_planks": "2025-10-01 19:41:45 +0000"
@@ -3445,6 +3452,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-10-01 19:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-10-01 20:35:26 +0000"
     },
     "done": true
   },
