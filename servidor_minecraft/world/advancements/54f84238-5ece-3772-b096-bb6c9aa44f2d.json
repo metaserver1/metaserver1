@@ -3318,6 +3318,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-10-01 03:23:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-10-01 03:06:13 +0000"
@@ -3339,6 +3345,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-10-01 02:23:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-01 03:23:02 +0000"
     },
     "done": true
   },
@@ -3378,9 +3390,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-10-01 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2025-10-01 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-10-01 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-10-01 03:23:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-10-01 03:06:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-01 03:23:02 +0000"
     },
     "done": true
   },
@@ -3441,6 +3483,18 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2025-10-01 03:06:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-01 03:23:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-01 03:23:02 +0000"
     },
     "done": true
   },
