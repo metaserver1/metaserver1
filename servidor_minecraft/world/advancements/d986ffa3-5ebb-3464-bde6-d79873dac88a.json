@@ -2208,6 +2208,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot_smithing": {
+    "criteria": {
+      "has_ocelot": "2025-09-30 22:28:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2025-09-30 20:24:35 +0000"

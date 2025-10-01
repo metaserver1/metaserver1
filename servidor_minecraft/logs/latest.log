@@ -1,16 +1,16 @@
-[20:16:26] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.12
-[20:16:26] [ForkJoinPool-1-worker-3/WARN]: Mod tectonic uses the version 2.3.5b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '5b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[20:16:27] [ForkJoinPool-1-worker-4/WARN]: Mod cpm uses the version 0.6.24a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '24a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[20:16:27] [ForkJoinPool-1-worker-1/WARN]: Mod travelersbackpack uses the version fabric-1.20.4-9.4.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[20:16:27] [ForkJoinPool-1-worker-4/WARN]: Mod underground_rooms uses the version fabric-1.1.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[20:16:27] [main/WARN]: Warnings were found!
+[01:56:12] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.12
+[01:56:12] [ForkJoinPool-1-worker-4/WARN]: Mod tectonic uses the version 2.3.5b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '5b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[01:56:12] [ForkJoinPool-1-worker-4/WARN]: Mod cpm uses the version 0.6.24a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '24a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[01:56:12] [ForkJoinPool-1-worker-2/WARN]: Mod travelersbackpack uses the version fabric-1.20.4-9.4.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[01:56:12] [ForkJoinPool-1-worker-3/WARN]: Mod underground_rooms uses the version fabric-1.1.6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[01:56:12] [main/WARN]: Warnings were found!
  - Mod 'Bridging Mod' (bridgingmod) 2.4.0+1.20.4 recommends version 9.0.0 or later of modmenu, which is missing!
 	 - You should install version 9.0.0 or later of modmenu for the optimal experience.
  - Mod 'Naturally Trimmed' (naturally_trimmed) 3.0.8 recommends version 9.2.0-beta.2 or later of modmenu, which is missing!
 	 - You should install version 9.2.0-beta.2 or later of modmenu for the optimal experience.
  - Mod 'Naturally Trimmed' (naturally_trimmed) 3.0.8 recommends version 3.6.6+1.20.4-fabric or later of yet_another_config_lib_v3, which is missing!
 	 - You should install version 3.6.6+1.20.4-fabric or later of yet_another_config_lib_v3 for the optimal experience.
-[20:16:27] [main/INFO]: Loading 200 mods:
+[01:56:12] [main/INFO]: Loading 200 mods:
 	- accessories 1.0.0-alpha.25+1.20.4
 	- ad_astra 1.16.5
 	   \-- javazoom_jlayer 1.0.1
@@ -247,302 +247,177 @@
 	   \-- org_reflections_reflections 0.10.2
 	- yungsextras 1.20.4-Fabric-4.4.2
 	   \-- org_reflections_reflections 0.10.2
-[20:16:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/metaserver1/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:16:27] [main/INFO]: Compatibility level set to JAVA_17
-[20:16:28] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map 'fastpaintings-fabric-refmap.json' for fastpaintings.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map 'lmft-fabric-refmap.json' for lmft.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/INFO]: Loaded configuration file for ModernFix 5.17.0+mc1.20.4: 54 options available, 0 override(s) found
-[20:16:28] [main/INFO]: Applying Nashorn fix
-[20:16:28] [main/INFO]: Packet Fixer fabric 1.20.2-1.20.4 has been applied successfully.
-[20:16:28] [main/WARN]: Reference map 'pickupnotifier.fabric.refmap.json' for pickupnotifier.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map 'trashcans.mixins.refmap.json' for trashcans.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map 'visualworkbench.common.refmap.json' for visualworkbench.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:28] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:16:29] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[20:16:29] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:16:31] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zza000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[20:16:33] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[20:16:35] [main/INFO]: Vanilla bootstrap took 5249 milliseconds
-[20:16:35] [main/INFO]: fabric loader environment detected
-[20:16:36] [main/INFO]: Registered Trinkets Reloaded Listeners
-[20:16:38] [main/INFO]: Reflections took 48 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:38] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:38] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[20:16:38] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[20:16:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:38] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[20:16:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[20:16:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:38] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[20:16:38] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
-[20:16:38] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:38] [main/WARN]: WARNING: block Block{minecraft:coal_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
-[20:16:39] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[20:16:39] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
-[20:16:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[20:16:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[20:16:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[20:16:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[20:16:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[20:16:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[20:16:39] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[20:16:39] [main/INFO]: Loading Collective version 7.64.
-[20:16:39] [main/INFO]: Customizable Player Models Initialized
-[20:16:39] [main/INFO]: Customizable Player Models API initialized: Loaded plugins: (0)
+[01:56:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/metaserver1/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:56:13] [main/INFO]: Compatibility level set to JAVA_17
+[01:56:13] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:13] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:13] [main/WARN]: Reference map 'fastpaintings-fabric-refmap.json' for fastpaintings.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:13] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:13] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:13] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:13] [main/WARN]: Reference map 'lmft-fabric-refmap.json' for lmft.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:13] [main/INFO]: Loaded configuration file for ModernFix 5.17.0+mc1.20.4: 54 options available, 0 override(s) found
+[01:56:13] [main/INFO]: Applying Nashorn fix
+[01:56:13] [main/INFO]: Packet Fixer fabric 1.20.2-1.20.4 has been applied successfully.
+[01:56:13] [main/WARN]: Reference map 'pickupnotifier.fabric.refmap.json' for pickupnotifier.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:14] [main/WARN]: Reference map 'trashcans.mixins.refmap.json' for trashcans.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:14] [main/WARN]: Reference map 'visualworkbench.common.refmap.json' for visualworkbench.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:14] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:14] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:14] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[01:56:15] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[01:56:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:56:16] [main/WARN]: @ModifyVariable(@At("INVOKE")) Shift.BY=2 on accessories-fabric.mixins.json:LivingEntityMixin from mod accessories::localvar$zza000$accessories$adjustLooting exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[01:56:17] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[01:56:20] [main/INFO]: Vanilla bootstrap took 4628 milliseconds
+[01:56:20] [main/INFO]: fabric loader environment detected
+[01:56:21] [main/INFO]: Registered Trinkets Reloaded Listeners
+[01:56:23] [main/INFO]: Reflections took 44 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:23] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:23] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:23] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:23] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:23] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:23] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:56:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:56:23] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:23] [main/WARN]: WARNING: block Block{minecraft:coal_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[01:56:23] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[01:56:23] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
+[01:56:23] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[01:56:23] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[01:56:23] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[01:56:23] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[01:56:23] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[01:56:23] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[01:56:23] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[01:56:23] [main/INFO]: Loading Collective version 7.64.
+[01:56:23] [main/INFO]: Customizable Player Models Initialized
+[01:56:23] [main/INFO]: Customizable Player Models API initialized: Loaded plugins: (0)
 
-[20:16:39] [main/INFO]: Constructing common components for easyanvils:main
-[20:16:39] [main/INFO]: Loading common config for easyanvils
-[20:16:39] [Thread-2/INFO]: Reloading common config for easyanvils
-[20:16:39] [Thread-2/INFO]: Reloading common config for easyanvils
-[20:16:39] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[20:16:39] [main/INFO]: Bypassed Mojang DFU
-[20:16:39] [main/INFO]: Instantiating Mojang DFU
-[20:16:40] [main/ERROR]: No data fixer registered for anomaly
-[20:16:40] [main/INFO]: Initializing HealingbedMod
-[20:16:40] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[20:16:40] [main/INFO]: [KONKRETE] Loading v1.9.2 in server-side mode on FABRIC!
-[20:16:40] [main/INFO]: ---------------------------
-[20:16:40] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
-[20:16:40] [main/INFO]:  
-[20:16:40] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
-[20:16:40] [main/INFO]: Open Imaging is licensed under Apache-2.0.
-[20:16:40] [main/INFO]:  
-[20:16:40] [main/INFO]: JsonPath Copyright © 2017 Jayway.
-[20:16:40] [main/INFO]: JsonPath is licensed under Apache-2.0.
-[20:16:40] [main/INFO]:  
-[20:16:40] [main/INFO]: Json-smart Copyright © netplex.
-[20:16:40] [main/INFO]: Json-smart is licensed under Apache-2.0.
-[20:16:40] [main/INFO]:  
-[20:16:40] [main/INFO]: Exp4j Copyright © Frank Asseg.
-[20:16:40] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
-[20:16:40] [main/INFO]: ---------------------------
-[20:16:40] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[20:16:40] [main/INFO]: [LMFT]: Loaded Config File!
-[20:16:40] [main/INFO]: Loading Naturally Trimmed config from config file
-[20:16:40] [main/INFO]: Constructing common components for pickupnotifier:main
-[20:16:40] [main/INFO]: [Ping-Wheel] Init
-[20:16:40] [main/INFO]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
-[20:16:40] [main/INFO]: Constructing common components for puzzleslib:main
-[20:16:40] [main/INFO]: [ServerCore] Loaded V1.5.0+1.20.4!
-[20:16:41] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[20:16:41] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[20:16:41] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[20:16:41] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[20:16:41] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[20:16:41] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[20:16:41] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[20:16:41] [main/INFO]: !?
-[20:16:41] [main/INFO]: Registering Mod Items for torchesntrinkets
-[20:16:41] [main/INFO]: Registering Item Groups fortorchesntrinkets
-[20:16:41] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[20:16:41] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[20:16:41] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[20:16:41] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[20:16:41] [main/INFO]: CHEESE FOR EVERYONE
-[20:16:41] [main/INFO]: Constructing common components for visualworkbench:main
-[20:16:42] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[20:16:42] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[20:16:42] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:42] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:42] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:42] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[20:16:42] [main/WARN]: Failed to find custom wood type biomesoplenty:maple
-[20:16:42] [main/WARN]: Failed to find custom wood type biomesoplenty:orange_autumn
-[20:16:42] [main/WARN]: Failed to find custom wood type biomesoplenty:yellow_autumn
-[20:16:42] [main/INFO]: Initialized block sets in 16ms
-[20:16:42] [main/INFO]: Loaded config fastpaintings-common.json
-[20:16:42] [main/INFO]: Initialized color sets in 22ms
-[20:16:42] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:16:42] [main/INFO]: Found new data pack torchesntrinkets, loading it automatically
-[20:16:45] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:ctov:chests/village/village_forager - No key expand in MapLike[{"type":"minecraft:tag","weight":1,"name":"byg:all/saplings"}]; No key expand in MapLike[{"type":"minecraft:tag","weight":1,"name":"byg:mushrooms_for_foragers_table"}]
-[20:16:45] [main/INFO]: Loaded 15 recipes
-[20:16:45] [main/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Not a json array: "minecraft:compass" missed input: {"has_compass":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":"minecraft:compass"}]}}}
-[20:16:45] [main/INFO]: Loaded 2839 advancements
-[20:16:45] [main/INFO]: Reloading grave shape (server)
-[20:16:45] [main/INFO]: Grave model and shape reload successful (server)
-[20:16:45] [main/INFO]: Reloading YIGD graveyard data (server)
-[20:16:45] [main/INFO]: Graveyard data successfully reloaded (server)
-[20:16:45] [main/INFO]: Reloading YIGD grave area overrides (server)
-[20:16:45] [main/INFO]: Grave area overrides successfully reloaded (server)
-[20:16:46] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[20:16:46] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[20:16:46] [main/INFO]: Applied 1741 biome modifications to 251 of 251 new biomes in 61.14 ms
-[20:16:46] [Server thread/INFO]: Loading server config for easyanvils
-[20:16:46] [Thread-2/INFO]: Reloading server config for easyanvils
-[20:16:46] [Server thread/INFO]: Loading server config for pickupnotifier
-[20:16:46] [Thread-2/INFO]: Reloading server config for easyanvils
-[20:16:46] [Server thread/INFO]: Loading server config for visualworkbench
-[20:16:46] [Thread-2/INFO]: Reloading server config for pickupnotifier
-[20:16:46] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[20:16:46] [Server thread/INFO]: Loading properties
-[20:16:46] [Server thread/INFO]: Default game type: SURVIVAL
-[20:16:46] [Server thread/INFO]: Generating keypair
-[20:16:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:16:47] [Server thread/INFO]: Using epoll channel type
-[20:16:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:16:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:16:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:16:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:16:47] [Server thread/INFO]: Preparing level "world"
-[20:16:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:16:49] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:49] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:49] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:49] [Server thread/INFO]: Preparing spawn area: 0%
-[20:16:49] [Server thread/INFO]: Time elapsed: 1868 ms
-[20:16:49] [Server thread/INFO]: Done (2.527s)! For help, type "help"
-[20:16:49] [Server thread/WARN]: Dedicated server took 24.315 seconds to load
-[20:16:49] [Server thread/INFO]: Loaded Reach Entity Attributes scaler
-[20:16:49] [Server thread/INFO]: Start loading plugin from Global XP
-[20:16:49] [Server thread/INFO]: Start loading plugin from Jade
-[20:16:49] [Server thread/INFO]: Start loading plugin from Jade
-[20:16:49] [Server thread/INFO]: Start loading plugin from Jade
-[20:16:49] [Server thread/INFO]: Start loading plugin from Jade
-[20:16:49] [Server thread/INFO]: Start loading plugin from Waystones
-[20:16:49] [Server thread/INFO]: Loaded values for 16 compatible attributes.
-[20:16:49] [Server thread/INFO]: Loaded 16 values from config.
-[20:16:49] [Server thread/INFO]: Saving config file. 16 entries.
-[20:16:49] [Server thread/INFO]: Applying changes for 16 attributes.
-[20:17:27] [Server thread/INFO]: Byakko4146[/10.242.222.233:56091] logged in with entity id 63 at (383.7080952365401, 80.0625, 1232.708567440228)
-[20:17:27] [Server thread/INFO]: Loading config from file...
-[20:17:28] [Server thread/INFO]: Byakko4146 joined the game
-[20:17:28] [Netty Epoll Server IO #2/INFO]: [showmeyourskin] Client of Byakko4146 accepted server config.
-[20:17:29] [Netty Epoll Server IO #2/INFO]: Channel update: Byakko4146 -> "1"
-[20:17:29] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
-[20:23:12] [ForkJoinPool.commonPool-worker-3/WARN]: Failed to fetch skin 'mojang:MetaPresi'
-java.lang.IllegalStateException: not found
-	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.3+1.20.3-fabric.jar:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:129) ~[skinrestorer-2.4.3+1.20.3-fabric.jar:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:53) ~[skinrestorer-2.4.3+1.20.3-fabric.jar:?]
-	at net.minecraft.class_3312.method_14509(class_3312.java:95) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3312.method_14515(class_3312.java:150) ~[server-intermediary.jar:?]
-	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:100) ~[skinrestorer-2.4.3+1.20.3-fabric.jar:?]
-	at net.minecraft.class_3248.mdd276c0$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(class_3248.java:2078) ~[server-intermediary.jar:?]
-	at java.util.Optional.map(Optional.java:260) ~[?:?]
-	at net.minecraft.class_3248.skinrestorer$fetchSkin(class_3248.java:2077) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3248.mdd276c0$skinrestorer$lambda$waitForSkin$0$2(class_3248.java:2062) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[20:23:14] [Server thread/INFO]: MetaPresi[/10.242.6.164:52669] logged in with entity id 1399 at (-89.52745352134448, 74.0, 979.3000000119209)
-[20:23:14] [Server thread/INFO]: Loading config from file...
-[20:23:14] [Server thread/INFO]: MetaPresi joined the game
-[20:23:14] [Netty Epoll Server IO #4/INFO]: [showmeyourskin] Client of MetaPresi accepted server config.
-[20:23:14] [Netty Epoll Server IO #4/INFO]: Channel update: MetaPresi -> "1"
-[20:23:14] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player MetaPresi. Claiming: GRAVE / Robbing: INVENTORY
-[20:23:41] [Server thread/INFO]: [Not Secure] <MetaPresi> ping please
-[20:23:49] [Server thread/INFO]: [Not Secure] <MetaPresi> joputa
-[20:26:42] [Server thread/INFO]: MetaPresi has made the advancement [Acquire Hardware]
-[20:26:46] [Server thread/INFO]: MetaPresi has made the advancement [Suit Up]
-[20:30:08] [Server thread/INFO]: [Not Secure] <MetaPresi> ping
-[20:45:54] [Server thread/INFO]: MetaPresi has made the advancement [Take Aim]
-[20:47:08] [Server thread/INFO]: [Not Secure] <MetaPresi> no tengo pico de hierro
-[20:47:41] [Server thread/INFO]: [Not Secure] <MetaPresi> acordate que de donde venimos puse cofres con cosas
-[20:47:49] [Server thread/INFO]: Byakko4146 has made the advancement [Isn't It Iron Pick]
-[20:48:06] [Server thread/INFO]: MetaPresi has made the advancement [Isn't It Iron Pick]
-[20:48:47] [Server thread/INFO]: [Not Secure] <MetaPresi> wa wa wawa
-[20:48:48] [Server thread/INFO]: [Not Secure] <Byakko4146> medio troleada q ahora la mesa de trabajo se comparte xd
-[20:49:02] [Server thread/INFO]: [Not Secure] <MetaPresi> ostia
-[20:50:18] [Server thread/INFO]: [Not Secure] <MetaPresi> no hay nada más allá
-[20:50:24] [Server thread/INFO]: [Not Secure] <MetaPresi> seguime
-[20:51:13] [Server thread/INFO]: [Not Secure] <MetaPresi> seguime loco
-[20:52:05] [Server thread/INFO]: [Not Secure] <MetaPresi> ?
-[20:52:15] [Server thread/INFO]: [Not Secure] <MetaPresi> encontraste el oro ooooooooo
-[20:54:33] [Server thread/INFO]: Byakko4146 has made the advancement [Diamonds!]
-[20:55:27] [Server thread/INFO]: [Not Secure] <MetaPresi> y esto
-[20:56:06] [Server thread/INFO]: [Not Secure] <Byakko4146> q
-[20:56:17] [Server thread/INFO]: [Not Secure] <MetaPresi> no sé que es ese encantamiento
-[20:56:19] [Server thread/INFO]: [Not Secure] <MetaPresi> eso
-[20:56:24] [Server thread/INFO]: [Not Secure] <Byakko4146> de un mod
-[20:56:27] [Server thread/INFO]: [Not Secure] <Byakko4146> duh
-[20:59:54] [Server thread/INFO]: [Not Secure] <MetaPresi> cuando te tiraste te perdiste que apareció Messi boludo
-[21:00:01] [Server thread/INFO]: [Not Secure] <Byakko4146> bura bua
-[21:00:37] [Server thread/INFO]: [Not Secure] <Byakko4146> pero baja cagon
-[21:00:47] [Server thread/INFO]: MetaPresi has made the advancement [Diamonds!]
-[21:03:57] [Server thread/INFO]: MetaPresi has made the advancement [Not Today, Thank You]
-[21:07:31] [Server thread/INFO]: Byakko4146 has made the advancement [Hot Stuff]
-[21:07:38] [Server thread/INFO]: MetaPresi has made the advancement [Hot Stuff]
-[21:09:30] [Server thread/INFO]: [Not Secure] <Byakko4146> cuantos
-[21:09:56] [Server thread/INFO]: [Not Secure] <MetaPresi> exprese a qué hace referencia
-[21:10:37] [Server thread/INFO]: [Not Secure] <Byakko4146> no tenes un pelo de tonto
-[21:10:57] [Server thread/INFO]: [Not Secure] <MetaPresi> no
-[21:11:05] [Server thread/INFO]: [Not Secure] <Byakko4146> diamantes
-[21:11:06] [Server thread/INFO]: [Not Secure] <MetaPresi> vos obviamente no
-[21:11:53] [Server thread/INFO]: [Not Secure] <MetaPresi> ahora 11
-[21:11:58] [Server thread/INFO]: [Not Secure] <Byakko4146> q pobre
-[21:12:45] [Server thread/WARN]: Byakko4146 moved too quickly! 8.238204997671176,0.0,-5.797444050596823
-[21:14:23] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 206.500000, -31.500000, 1115.500000]
-[21:18:55] [Server thread/INFO]: MetaPresi was doomed to fall by Skeleton
-[21:19:06] [Server thread/INFO]: [Not Secure] <MetaPresi> maldito negro hijo de puta
-[21:19:34] [Server thread/INFO]: [Not Secure] <MetaPresi> ejem
-[21:19:41] [Server thread/INFO]: [Not Secure] <MetaPresi> tp? ;V
-[21:19:50] [Server thread/INFO]: [Byakko4146: Teleported MetaPresi to Byakko4146]
-[21:22:32] [Server thread/INFO]: [Not Secure] <MetaPresi> habia lija
-[21:22:48] [Server thread/INFO]: [Not Secure] <MetaPresi> ehhhh la tumba está a 430 bloques
-[21:24:25] [Server thread/INFO]: MetaPresi was shot by Skeleton
-[21:24:33] [Server thread/INFO]: [Not Secure] <MetaPresi> bruh
-[21:25:01] [Server thread/INFO]: [Byakko4146: Teleported MetaPresi to Byakko4146]
-[21:25:05] [Server thread/INFO]: MetaPresi claimed a grave belonging to MetaPresi at 231, -16, 1104, minecraft:overworld
-[21:26:16] [Server thread/INFO]: MetaPresi was slain by Zombie
-[21:26:31] [Server thread/INFO]: [Byakko4146: Teleported MetaPresi to Byakko4146]
-[21:26:38] [Server thread/INFO]: [Not Secure] <MetaPresi> SE LEVANTA OTRA VEEEEEEZ
-[21:26:42] [Server thread/INFO]: MetaPresi claimed a grave belonging to MetaPresi at 224, -15, 1137, minecraft:overworld
-[21:26:47] [Server thread/INFO]: [Not Secure] <Byakko4146> no esta el mod de tirarte al piso??
-[21:29:41] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to 383.500000, 80.500000, 1232.500000]
-[21:31:12] [Server thread/INFO]: Byakko4146 has made the advancement [Cover Me with Diamonds]
-[21:31:42] [Server thread/INFO]: [Not Secure] <MetaPresi> mineshaft
-[21:32:17] [Server thread/INFO]: [Not Secure] <MetaPresi> aca
-[21:32:59] [Server thread/INFO]: [Byakko4146: Gamerule playersSleepingPercentage is now set to: 25]
-[21:42:05] [Server thread/INFO]: MetaPresi claimed a grave belonging to MetaPresi at 547, -54, 1400, minecraft:overworld
-[21:42:18] [Server thread/INFO]: [Not Secure] <MetaPresi> ah bueno
-[21:42:22] [Server thread/INFO]: [Not Secure] <Byakko4146> q
-[21:42:30] [Server thread/INFO]: [Not Secure] <MetaPresi> no tengas el inventario lleno cuando agarrás tu tumba
-[21:42:43] [Server thread/INFO]: [Not Secure] <Byakko4146> todo al piso?
-[21:42:53] [Server thread/INFO]: [Not Secure] <MetaPresi> tenía lava de frente
-[21:49:45] [Server thread/INFO]: [Not Secure] <MetaPresi> tendrás arena?
-[21:49:49] [Server thread/INFO]: [Not Secure] <Byakko4146> no
-[21:49:51] [Server thread/INFO]: [Not Secure] <MetaPresi> o 12 de vidrio
-[21:57:58] [Server thread/INFO]: Byakko4146 lost connection: Disconnected
-[21:57:58] [Server thread/INFO]: Byakko4146 left the game
-[21:58:08] [Server thread/INFO]: [Not Secure] [Server] 5 mins
-[22:06:55] [Server thread/INFO]: Byakko4146[/10.242.222.233:62488] logged in with entity id 30446 at (-18.51894426239783, 72.0, 2025.5216163717569)
-[22:06:55] [Server thread/INFO]: Loading config from file...
-[22:06:55] [Server thread/INFO]: Byakko4146 joined the game
-[22:06:55] [Netty Epoll Server IO #6/INFO]: [showmeyourskin] Client of Byakko4146 accepted server config.
-[22:06:56] [Netty Epoll Server IO #6/INFO]: Channel update: Byakko4146 -> "1"
-[22:06:56] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
-[22:07:53] [Server thread/INFO]: [Not Secure] <MetaPresi> che recontra nerfearon la mochila con mejora de diamante
-[22:08:22] [Server thread/INFO]: [Not Secure] <Byakko4146> de hecho, en versiones mas nuevas la buffean
-[22:10:47] [Server thread/INFO]: [Not Secure] <MetaPresi> CHICKEN JOCKEY
-[22:11:20] [Server thread/INFO]: MetaPresi has made the advancement [Sweet Dreams]
-[22:12:10] [Server thread/INFO]: [Not Secure] <MetaPresi> ya hice la casa por si querés venir
-[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[22:14:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:24:09] [Server thread/INFO]: MetaPresi has made the advancement [Fishy Business]
-[22:26:21] [Server thread/INFO]: [Not Secure] <MetaPresi> ?
-[22:26:30] [Server thread/INFO]: [Not Secure] <Byakko4146> q
-[22:26:38] [Server thread/INFO]: [Not Secure] <MetaPresi> vos me sacaste la armadura?
-[22:26:51] [Server thread/INFO]: [Not Secure] <Byakko4146> como?
-[22:27:16] [Server thread/INFO]: [Not Secure] <MetaPresi> me sacó de a poco la armadura y me la puso en el inventario
-[22:27:27] [Server thread/INFO]: [Not Secure] <Byakko4146> como?
-[22:27:34] [Server thread/INFO]: [Not Secure] <MetaPresi> qcy
+[01:56:23] [main/INFO]: Constructing common components for easyanvils:main
+[01:56:23] [main/INFO]: Loading common config for easyanvils
+[01:56:23] [Thread-2/INFO]: Reloading common config for easyanvils
+[01:56:23] [Thread-2/INFO]: Reloading common config for easyanvils
+[01:56:23] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[01:56:24] [main/INFO]: Bypassed Mojang DFU
+[01:56:24] [main/INFO]: Instantiating Mojang DFU
+[01:56:24] [main/ERROR]: No data fixer registered for anomaly
+[01:56:24] [main/INFO]: Initializing HealingbedMod
+[01:56:24] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[01:56:24] [main/INFO]: [KONKRETE] Loading v1.9.2 in server-side mode on FABRIC!
+[01:56:24] [main/INFO]: ---------------------------
+[01:56:24] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[01:56:24] [main/INFO]:  
+[01:56:24] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[01:56:24] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[01:56:24] [main/INFO]:  
+[01:56:24] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[01:56:24] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[01:56:24] [main/INFO]:  
+[01:56:24] [main/INFO]: Json-smart Copyright © netplex.
+[01:56:24] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[01:56:24] [main/INFO]:  
+[01:56:24] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[01:56:24] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[01:56:24] [main/INFO]: ---------------------------
+[01:56:24] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[01:56:25] [main/INFO]: [LMFT]: Loaded Config File!
+[01:56:25] [main/INFO]: Loading Naturally Trimmed config from config file
+[01:56:25] [main/INFO]: Constructing common components for pickupnotifier:main
+[01:56:25] [main/INFO]: [Ping-Wheel] Init
+[01:56:25] [main/INFO]: [Ping-Wheel] Loaded ServerConfig(defaultChannelMode=auto, playerTrackingEnabled=true, msToRegenerate=1000, rateLimit=5)
+[01:56:25] [main/INFO]: Constructing common components for puzzleslib:main
+[01:56:25] [main/INFO]: [ServerCore] Loaded V1.5.0+1.20.4!
+[01:56:25] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01:56:25] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[01:56:25] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[01:56:25] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[01:56:25] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[01:56:25] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[01:56:25] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[01:56:26] [main/INFO]: !?
+[01:56:26] [main/INFO]: Registering Mod Items for torchesntrinkets
+[01:56:26] [main/INFO]: Registering Item Groups fortorchesntrinkets
+[01:56:26] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[01:56:26] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[01:56:26] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[01:56:26] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[01:56:26] [main/INFO]: CHEESE FOR EVERYONE
+[01:56:26] [main/INFO]: Constructing common components for visualworkbench:main
+[01:56:26] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:26] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[01:56:26] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:26] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:26] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:26] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[01:56:26] [main/WARN]: Failed to find custom wood type biomesoplenty:maple
+[01:56:26] [main/WARN]: Failed to find custom wood type biomesoplenty:orange_autumn
+[01:56:26] [main/WARN]: Failed to find custom wood type biomesoplenty:yellow_autumn
+[01:56:26] [main/INFO]: Initialized block sets in 16ms
+[01:56:26] [main/INFO]: Loaded config fastpaintings-common.json
+[01:56:26] [main/INFO]: Initialized color sets in 24ms
+[01:56:26] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:56:29] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:ctov:chests/village/village_forager - No key expand in MapLike[{"type":"minecraft:tag","weight":1,"name":"byg:all/saplings"}]; No key expand in MapLike[{"type":"minecraft:tag","weight":1,"name":"byg:mushrooms_for_foragers_table"}]
+[01:56:30] [main/INFO]: Loaded 15 recipes
+[01:56:30] [main/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Not a json array: "minecraft:compass" missed input: {"has_compass":{"trigger":"minecraft:inventory_changed","conditions":{"items":[{"items":"minecraft:compass"}]}}}
+[01:56:30] [main/INFO]: Loaded 2839 advancements
+[01:56:30] [main/INFO]: Reloading grave shape (server)
+[01:56:30] [main/INFO]: Grave model and shape reload successful (server)
+[01:56:30] [main/INFO]: Reloading YIGD graveyard data (server)
+[01:56:30] [main/INFO]: Graveyard data successfully reloaded (server)
+[01:56:30] [main/INFO]: Reloading YIGD grave area overrides (server)
+[01:56:30] [main/INFO]: Grave area overrides successfully reloaded (server)
+[01:56:31] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01:56:31] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01:56:31] [main/INFO]: Applied 1741 biome modifications to 251 of 251 new biomes in 62.22 ms
+[01:56:31] [Server thread/INFO]: Loading server config for easyanvils
+[01:56:31] [Thread-2/INFO]: Reloading server config for easyanvils
+[01:56:31] [Thread-2/INFO]: Reloading server config for easyanvils
+[01:56:31] [Server thread/INFO]: Loading server config for pickupnotifier
+[01:56:31] [Thread-2/INFO]: Reloading server config for pickupnotifier
+[01:56:31] [Server thread/INFO]: Loading server config for visualworkbench
+[01:56:31] [Thread-2/INFO]: Reloading server config for pickupnotifier
+[01:56:31] [Thread-2/INFO]: Reloading server config for visualworkbench
+[01:56:31] [Thread-2/INFO]: Reloading server config for visualworkbench
+[01:56:31] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[01:56:31] [Server thread/INFO]: Loading properties
+[01:56:31] [Server thread/INFO]: Default game type: SURVIVAL
+[01:56:31] [Server thread/INFO]: Generating keypair
+[01:56:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:56:31] [Server thread/INFO]: Using epoll channel type
+[01:56:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:56:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:56:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:56:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:56:31] [Server thread/INFO]: Preparing level "world"
+[01:56:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:56:33] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:33] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:33] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:33] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:34] [Server thread/INFO]: Time elapsed: 1854 ms
+[01:56:34] [Server thread/INFO]: Done (2.539s)! For help, type "help"
+[01:56:34] [Server thread/WARN]: Dedicated server took 22.977 seconds to load
+[01:56:34] [Server thread/INFO]: Loaded Reach Entity Attributes scaler
+[01:56:34] [Server thread/INFO]: Start loading plugin from Global XP
+[01:56:34] [Server thread/INFO]: Start loading plugin from Jade
+[01:56:34] [Server thread/INFO]: Start loading plugin from Jade
+[01:56:34] [Server thread/INFO]: Start loading plugin from Jade
+[01:56:34] [Server thread/INFO]: Start loading plugin from Jade
+[01:56:34] [Server thread/INFO]: Start loading plugin from Waystones
+[01:56:34] [Server thread/INFO]: Loaded values for 16 compatible attributes.
+[01:56:34] [Server thread/INFO]: Loaded 16 values from config.
+[01:56:34] [Server thread/INFO]: Saving config file. 16 entries.
+[01:56:34] [Server thread/INFO]: Applying changes for 16 attributes.
+[01:57:01] [Server thread/INFO]: Byakko4146[/10.242.222.233:60006] logged in with entity id 64 at (-50.56407394354049, 69.0, 3305.5518070778858)
+[01:57:01] [Server thread/INFO]: Loading config from file...
+[01:57:01] [Server thread/INFO]: Byakko4146 joined the game
+[01:57:01] [Netty Epoll Server IO #2/INFO]: [showmeyourskin] Client of Byakko4146 accepted server config.
+[01:57:02] [Netty Epoll Server IO #2/INFO]: Channel update: Byakko4146 -> "1"
+[01:57:02] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
