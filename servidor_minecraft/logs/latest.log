@@ -497,3 +497,4 @@ java.lang.IllegalStateException: not found
 [21:01:43] [Server thread/INFO]: [Not Secure] <MetaPresi> 4
 [21:12:50] [Server thread/INFO]: MetaPresi lost connection: Disconnected
 [21:12:50] [Server thread/INFO]: MetaPresi left the game
+[21:17:47] [Server thread/INFO]: [Byakko4146: Set own game mode to Creative Mode]
