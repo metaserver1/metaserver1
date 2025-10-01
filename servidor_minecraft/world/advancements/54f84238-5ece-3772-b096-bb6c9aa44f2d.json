@@ -39,16 +39,21 @@
     "criteria": {
       "forested_field": "2025-09-30 21:56:04 +0000",
       "spider_nest": "2025-09-30 20:28:18 +0000",
+      "lavender_field": "2025-10-01 18:29:57 +0000",
+      "shrubland": "2025-09-30 22:12:39 +0000",
+      "maple_woods": "2025-09-30 21:46:32 +0000",
+      "rocky_shrubland": "2025-09-30 22:14:46 +0000",
+      "redwood_forest": "2025-10-01 18:26:05 +0000",
+      "grassland": "2025-09-30 22:14:23 +0000",
+      "prairie": "2025-10-01 18:31:21 +0000",
       "field": "2025-09-30 03:22:06 +0000",
       "orchard": "2025-09-30 02:52:40 +0000",
       "overgrown_greens": "2025-10-01 18:12:21 +0000",
-      "shrubland": "2025-09-30 22:12:39 +0000",
-      "maple_woods": "2025-09-30 21:46:32 +0000",
+      "highland": "2025-10-01 18:25:58 +0000",
       "dead_forest": "2025-09-30 03:15:24 +0000",
-      "rocky_shrubland": "2025-09-30 22:14:46 +0000",
+      "jacaranda_glade": "2025-10-01 18:29:19 +0000",
       "snowy_maple_woods": "2025-09-30 03:15:08 +0000",
-      "coniferous_forest": "2025-09-30 03:21:26 +0000",
-      "grassland": "2025-09-30 22:14:23 +0000"
+      "coniferous_forest": "2025-09-30 03:21:26 +0000"
     },
     "done": false
   },
@@ -3535,6 +3540,36 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-10-01 18:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-10-01 18:37:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-01 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-10-01 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-10-01 18:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-10-01 18:12:55 +0000"
@@ -3544,6 +3579,18 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-10-01 18:10:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-10-01 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-10-01 18:26:51 +0000"
     },
     "done": true
   },
@@ -3565,6 +3612,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-10-01 18:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-10-01 18:12:55 +0000"
@@ -3577,9 +3630,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-01 18:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-10-01 18:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-10-01 18:37:32 +0000"
     },
     "done": true
   },
@@ -3589,9 +3654,57 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-10-01 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-10-01 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-10-01 18:36:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-01 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-01 18:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-10-01 18:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-10-01 18:10:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-10-01 18:29:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-10-01 18:37:32 +0000"
     },
     "done": true
   },

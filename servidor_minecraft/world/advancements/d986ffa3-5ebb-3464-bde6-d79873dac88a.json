@@ -42,8 +42,10 @@
       "field": "2025-09-30 20:31:19 +0000",
       "highland": "2025-10-01 18:19:15 +0000",
       "maple_woods": "2025-10-01 18:14:31 +0000",
+      "rocky_shrubland": "2025-10-01 18:35:37 +0000",
       "coniferous_forest": "2025-09-30 20:51:27 +0000",
-      "pumpkin_patch": "2025-10-01 18:17:03 +0000"
+      "pumpkin_patch": "2025-10-01 18:17:03 +0000",
+      "grassland": "2025-10-01 18:32:02 +0000"
     },
     "done": false
   },
@@ -536,6 +538,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-09-30 02:58:43 +0000",
+      "minecraft:taiga": "2025-10-01 18:22:00 +0000",
+      "minecraft:river": "2025-10-01 18:25:21 +0000",
       "minecraft:birch_forest": "2025-09-30 03:02:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-30 03:03:14 +0000"
     },
@@ -2811,6 +2815,12 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-10-01 18:24:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-10-01 18:17:32 +0000"
@@ -2829,6 +2839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-10-01 18:25:20 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/black_sleeping_bag": {
     "criteria": {
       "has_black_wool": "2025-10-01 18:18:39 +0000"
@@ -2841,6 +2857,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-10-01 18:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-10-01 18:16:00 +0000"
@@ -2850,6 +2872,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-10-01 18:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-10-01 18:25:20 +0000"
     },
     "done": true
   },
