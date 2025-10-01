@@ -420,3 +420,30 @@
 [17:12:50] [Server thread/INFO]: [Byakko4146: Set own game mode to Survival Mode]
 [17:24:55] [Server thread/INFO]: [Byakko4146: Set own game mode to Creative Mode]
 [17:33:03] [Server thread/INFO]: [Byakko4146: Set own game mode to Survival Mode]
+[18:01:37] [Server thread/INFO]: [Byakko4146: Set own game mode to Creative Mode]
+[18:06:49] [Server thread/INFO]: [Byakko4146: Set own game mode to Survival Mode]
+[18:10:20] [ForkJoinPool.commonPool-worker-3/WARN]: Failed to fetch skin 'mojang:MetaPresi'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.3+1.20.3-fabric.jar:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:129) ~[skinrestorer-2.4.3+1.20.3-fabric.jar:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:53) ~[skinrestorer-2.4.3+1.20.3-fabric.jar:?]
+	at net.minecraft.class_3312.method_14509(class_3312.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3312.method_14515(class_3312.java:150) ~[server-intermediary.jar:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:100) ~[skinrestorer-2.4.3+1.20.3-fabric.jar:?]
+	at net.minecraft.class_3248.mdaedc18$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(class_3248.java:2078) ~[server-intermediary.jar:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.class_3248.skinrestorer$fetchSkin(class_3248.java:2077) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3248.mdaedc18$skinrestorer$lambda$waitForSkin$0$2(class_3248.java:2062) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[18:10:22] [Server thread/INFO]: MetaPresi[/10.242.6.164:53557] logged in with entity id 15391 at (384.7974658131083, 80.0625, 1232.1905419327504)
+[18:10:22] [Server thread/INFO]: Loading config from file...
+[18:10:22] [Server thread/INFO]: MetaPresi joined the game
+[18:10:22] [Netty Epoll Server IO #4/INFO]: [showmeyourskin] Client of MetaPresi accepted server config.
+[18:10:23] [Netty Epoll Server IO #4/INFO]: Channel update: MetaPresi -> "1"
+[18:10:23] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player MetaPresi. Claiming: GRAVE / Robbing: INVENTORY
