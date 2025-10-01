@@ -268,6 +268,7 @@
       "forested_field": "2025-10-01 21:35:45 +0000",
       "field": "2025-10-01 21:28:42 +0000",
       "orchard": "2025-10-01 21:24:07 +0000",
+      "shrubland": "2025-10-01 21:49:08 +0000",
       "highland": "2025-10-01 21:34:51 +0000",
       "maple_woods": "2025-10-01 21:34:54 +0000",
       "rocky_shrubland": "2025-10-01 21:40:07 +0000",
@@ -579,6 +580,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-10-01 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-10-01 21:50:02 +0000"
     },
     "done": true
   },
@@ -1085,7 +1092,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-10-01 21:30:54 +0000",
-      "beef": "2025-10-01 21:35:21 +0000"
+      "beef": "2025-10-01 21:35:21 +0000",
+      "porkchop": "2025-10-01 21:41:00 +0000"
     },
     "done": false
   },
