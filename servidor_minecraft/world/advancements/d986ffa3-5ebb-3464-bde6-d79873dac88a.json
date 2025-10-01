@@ -3083,6 +3083,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-10-01 20:56:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-10-01 19:51:16 +0000"
@@ -3242,6 +3248,12 @@
   "handcrafted:recipes/misc/cherry_chair": {
     "criteria": {
       "has_cherry_chair": "2025-10-01 19:41:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-10-01 20:56:01 +0000"
     },
     "done": true
   },

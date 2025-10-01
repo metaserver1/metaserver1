@@ -493,3 +493,5 @@ java.lang.IllegalStateException: not found
 [20:15:16] [Netty Epoll Server IO #6/INFO]: [showmeyourskin] Client of Byakko4146 accepted server config.
 [20:15:16] [Netty Epoll Server IO #6/INFO]: Channel update: Byakko4146 -> "1"
 [20:15:16] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[20:59:00] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
+[21:01:43] [Server thread/INFO]: [Not Secure] <MetaPresi> 4
