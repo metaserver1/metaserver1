@@ -447,3 +447,4 @@ java.lang.IllegalStateException: not found
 [18:10:22] [Netty Epoll Server IO #4/INFO]: [showmeyourskin] Client of MetaPresi accepted server config.
 [18:10:23] [Netty Epoll Server IO #4/INFO]: Channel update: MetaPresi -> "1"
 [18:10:23] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player MetaPresi. Claiming: GRAVE / Robbing: INVENTORY
+[18:13:35] [Server thread/INFO]: [Not Secure] <MetaPresi> -21 3290
