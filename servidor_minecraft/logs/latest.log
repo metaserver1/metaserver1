@@ -479,3 +479,5 @@ java.lang.IllegalStateException: not found
 [18:32:49] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [18:33:38] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [18:33:38] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[18:54:25] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to -429.500000, 76.500000, 4094.500000]
+[18:56:03] [Server thread/WARN]: Byakko4146 moved too quickly! 8.878510400814278,-0.04353562014750878,5.343649456929597
