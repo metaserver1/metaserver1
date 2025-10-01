@@ -421,3 +421,4 @@
 [01:57:01] [Netty Epoll Server IO #2/INFO]: [showmeyourskin] Client of Byakko4146 accepted server config.
 [01:57:02] [Netty Epoll Server IO #2/INFO]: Channel update: Byakko4146 -> "1"
 [01:57:02] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[02:58:18] [Server thread/INFO]: [Byakko4146: Set own game mode to Creative Mode]
