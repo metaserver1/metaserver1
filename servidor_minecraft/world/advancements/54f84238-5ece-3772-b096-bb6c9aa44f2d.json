@@ -3306,6 +3306,12 @@
     },
     "done": true
   },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2025-10-01 03:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-10-01 02:35:34 +0000"
