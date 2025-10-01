@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-10-01 22:35:13 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
@@ -92,6 +98,12 @@
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_white_industrial_lamp": {
+    "criteria": {
+      "has_small_white_industrial_lamp": "2025-10-01 22:43:40 +0000"
     },
     "done": true
   },
@@ -179,6 +191,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2025-10-01 22:43:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pink_sheet": {
     "criteria": {
       "has_pink_sheet": "2025-10-01 21:31:11 +0000"
@@ -191,9 +209,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-10-01 22:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-10-01 22:24:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:44:58 +0000"
     },
     "done": true
   },
@@ -281,6 +311,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/black_industrial_lamp": {
+    "criteria": {
+      "has_black_industrial_lamp": "2025-10-01 22:44:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-10-01 21:25:22 +0000"
@@ -308,6 +344,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-10-01 21:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-10-01 22:38:39 +0000"
     },
     "done": true
   },
@@ -443,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-10-01 22:38:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-01 21:37:48 +0000"
@@ -452,6 +500,12 @@
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2025-10-01 22:43:40 +0000"
     },
     "done": true
   },
@@ -471,6 +525,12 @@
       "prairie": "2025-10-01 22:16:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-10-01 22:43:40 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
@@ -569,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-10-01 22:43:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-10-01 22:00:30 +0000"
@@ -641,6 +707,18 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-10-01 22:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:38:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_galley": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
@@ -677,6 +755,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2025-10-01 22:38:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-01 21:37:48 +0000"
@@ -704,6 +788,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:43:40 +0000"
     },
     "done": true
   },
@@ -752,6 +842,12 @@
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2025-10-01 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_black_industrial_lamp": {
+    "criteria": {
+      "has_small_black_industrial_lamp": "2025-10-01 22:44:58 +0000"
     },
     "done": true
   },
@@ -809,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:44:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
@@ -845,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-10-01 22:43:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2025-10-01 21:26:01 +0000"
@@ -866,6 +974,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-10-01 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2025-10-01 22:43:40 +0000"
     },
     "done": true
   },
@@ -995,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-10-01 22:43:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_planks": "2025-10-01 22:09:52 +0000"
@@ -1043,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-10-01 22:43:40 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
@@ -1058,6 +1184,18 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-10-01 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:44:58 +0000"
     },
     "done": true
   },
@@ -1079,9 +1217,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:38:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-10-01 22:24:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-10-01 22:41:35 +0000"
     },
     "done": true
   },
@@ -1121,15 +1271,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-10-01 22:38:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-10-01 22:41:35 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "has_the_recipe": "2025-10-01 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-10-01 22:43:40 +0000"
     },
     "done": true
   },
@@ -1142,6 +1310,18 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:43:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-10-01 22:38:39 +0000"
     },
     "done": true
   },
@@ -1301,9 +1481,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-10-01 22:44:58 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-10-01 21:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-10-01 22:38:39 +0000"
     },
     "done": true
   },
@@ -1331,6 +1523,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-10-01 22:43:04 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-10-01 21:30:16 +0000"
@@ -1352,6 +1550,12 @@
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-10-01 21:24:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2025-10-01 22:43:40 +0000"
     },
     "done": true
   },
@@ -1379,6 +1583,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-10-01 21:26:11 +0000"
@@ -1388,6 +1598,12 @@
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:43:40 +0000"
     },
     "done": true
   },
@@ -1412,6 +1628,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-10-01 21:24:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:38:39 +0000"
     },
     "done": true
   },
@@ -1454,6 +1676,18 @@
   "ad_astra:recipes/misc/black_flag": {
     "criteria": {
       "has_black_flag": "2025-10-01 22:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-10-01 22:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-10-01 22:38:39 +0000"
     },
     "done": true
   },
@@ -1529,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-10-01 22:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-10-01 21:25:57 +0000",
@@ -1563,9 +1803,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/white_industrial_lamp": {
+    "criteria": {
+      "has_white_industrial_lamp": "2025-10-01 22:43:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-01 21:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-10-01 22:43:40 +0000"
     },
     "done": true
   },
@@ -1633,6 +1885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-10-01 22:38:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_brigg": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
@@ -1642,6 +1900,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-10-01 21:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-10-01 22:44:58 +0000"
     },
     "done": true
   },
@@ -1729,6 +1993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-01 22:44:58 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_the_recipe": "2025-10-01 21:51:22 +0000"
@@ -1798,6 +2068,12 @@
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-10-01 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-10-01 22:38:34 +0000"
     },
     "done": true
   },
