@@ -482,3 +482,14 @@ java.lang.IllegalStateException: not found
 [18:54:25] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to -429.500000, 76.500000, 4094.500000]
 [18:56:03] [Server thread/WARN]: Byakko4146 moved too quickly! 8.878510400814278,-0.04353562014750878,5.343649456929597
 [19:20:46] [Server thread/WARN]: Byakko4146 moved wrongly!
+[20:08:03] [Server thread/INFO]: [Byakko4146: Teleported MetaPresi to Byakko4146]
+[20:08:22] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
+[20:13:45] [Server thread/INFO]: Byakko4146 lost connection: Disconnected
+[20:13:45] [Server thread/INFO]: Byakko4146 left the game
+[20:14:10] [Server thread/INFO]: [Not Secure] [Server] i can still see you
+[20:15:16] [Server thread/INFO]: Byakko4146[/10.242.222.233:52304] logged in with entity id 68160 at (-57.579020549135706, 64.0, 3304.364731207316)
+[20:15:16] [Server thread/INFO]: Loading config from file...
+[20:15:16] [Server thread/INFO]: Byakko4146 joined the game
+[20:15:16] [Netty Epoll Server IO #6/INFO]: [showmeyourskin] Client of Byakko4146 accepted server config.
+[20:15:16] [Netty Epoll Server IO #6/INFO]: Channel update: Byakko4146 -> "1"
+[20:15:16] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
