@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:09:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-10-01 21:31:28 +0000"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-10-01 22:18:24 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/return_scroll": {
     "criteria": {
       "has_paper": "2025-10-01 21:33:41 +0000"
@@ -140,6 +152,12 @@
   "handcrafted:recipes/misc/pink_sheet": {
     "criteria": {
       "has_pink_sheet": "2025-10-01 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-10-01 22:00:30 +0000"
     },
     "done": true
   },
@@ -164,6 +182,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-01 21:37:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-10-01 22:03:43 +0000"
     },
     "done": true
   },
@@ -197,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-10-01 22:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-01 21:37:48 +0000"
@@ -215,9 +245,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:09:52 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/white_flag": {
     "criteria": {
       "has_white_flag": "2025-10-01 21:25:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:09:52 +0000"
     },
     "done": true
   },
@@ -236,6 +278,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-10-01 21:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-10-01 22:00:30 +0000"
     },
     "done": true
   },
@@ -327,7 +375,9 @@
       "maple_woods": "2025-10-01 21:34:54 +0000",
       "rocky_shrubland": "2025-10-01 21:40:07 +0000",
       "coniferous_forest": "2025-10-01 21:28:33 +0000",
-      "grassland": "2025-10-01 21:39:56 +0000"
+      "redwood_forest": "2025-10-01 22:16:51 +0000",
+      "grassland": "2025-10-01 21:39:56 +0000",
+      "prairie": "2025-10-01 22:16:32 +0000"
     },
     "done": false
   },
@@ -367,6 +417,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-10-01 22:00:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-10-01 21:26:01 +0000"
@@ -394,6 +450,24 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-01 21:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-10-01 22:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-10-01 22:00:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-10-01 22:00:30 +0000"
     },
     "done": true
   },
@@ -427,6 +501,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-10-01 22:02:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-01 21:37:48 +0000"
@@ -457,6 +537,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:09:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2025-10-01 21:25:22 +0000"
@@ -478,6 +564,12 @@
   "biomesoplenty:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-01 21:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-10-01 22:00:30 +0000"
     },
     "done": true
   },
@@ -631,6 +723,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:09:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2025-10-01 21:26:01 +0000"
@@ -640,6 +738,12 @@
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-10-01 21:31:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-10-01 22:03:43 +0000"
     },
     "done": true
   },
@@ -670,6 +774,12 @@
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-10-01 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:09:52 +0000"
     },
     "done": true
   },
@@ -739,9 +849,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:09:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/pink_sleeping_bag": {
     "criteria": {
       "has_pink_wool": "2025-10-01 21:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-10-01 22:03:43 +0000"
     },
     "done": true
   },
@@ -805,9 +927,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-10-01 22:18:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-10-01 21:50:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-10-01 22:02:28 +0000"
     },
     "done": true
   },
@@ -865,6 +999,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:09:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2025-10-01 21:29:34 +0000"
@@ -916,6 +1056,12 @@
   "handcrafted:recipes/misc/oak_desk": {
     "criteria": {
       "has_oak_desk": "2025-10-01 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-01 22:09:52 +0000"
     },
     "done": true
   },
@@ -1087,6 +1233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-10-01 22:00:30 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_brigg": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
@@ -1096,6 +1248,18 @@
   "smallships:recipes/transportation/spruce_brigg": {
     "criteria": {
       "in_water": "2025-10-01 21:26:24 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-10-01 22:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-10-01 22:18:24 +0000"
     },
     "done": true
   },
@@ -1147,11 +1311,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-10-01 22:00:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-10-01 21:25:57 +0000",
       "minecraft:taiga": "2025-10-01 21:38:07 +0000",
-      "minecraft:river": "2025-10-01 21:35:54 +0000"
+      "minecraft:river": "2025-10-01 21:35:54 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-10-01 22:12:53 +0000",
+      "minecraft:plains": "2025-10-01 22:15:53 +0000"
     },
     "done": false
   },
@@ -1272,6 +1444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-10-01 22:00:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-10-01 21:37:48 +0000"
@@ -1305,6 +1483,12 @@
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-10-01 21:26:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-10-01 22:03:43 +0000"
     },
     "done": true
   },
