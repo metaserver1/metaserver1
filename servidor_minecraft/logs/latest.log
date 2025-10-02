@@ -468,3 +468,19 @@ java.lang.IllegalStateException: not found
 [02:41:15] [Server thread/WARN]: Byakko4146 moved too quickly! -1.1627814462447077,-10.277411153802248,-1.0430260737994104
 [02:41:32] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
 [02:42:37] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
+[02:49:01] [Server thread/INFO]: [Byakko4146: Teleported MetaPresi to Byakko4146]
+[02:55:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:55:18] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:55:22] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:55:22] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:55:22] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:55:22] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:55:22] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:55:22] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:00:14] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
+[03:03:03] [Server thread/INFO]: UnnAmeD9[/10.242.178.215:54995] logged in with entity id 41515 at (-58.62066969162368, 69.5625, 3340.707971714293)
+[03:03:03] [Server thread/INFO]: Loading config from file...
+[03:03:03] [Server thread/INFO]: UnnAmeD9 joined the game
+[03:03:03] [Netty Epoll Server IO #6/INFO]: [showmeyourskin] Client of UnnAmeD9 accepted server config.
+[03:03:04] [Netty Epoll Server IO #6/INFO]: Channel update: UnnAmeD9 -> default
+[03:03:04] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player UnnAmeD9. Claiming: GRAVE / Robbing: INVENTORY

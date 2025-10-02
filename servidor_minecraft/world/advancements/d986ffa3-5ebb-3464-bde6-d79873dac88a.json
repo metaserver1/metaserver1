@@ -551,6 +551,7 @@
       "minecraft:meadow": "2025-10-02 02:34:17 +0000",
       "minecraft:birch_forest": "2025-09-30 03:02:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-30 03:03:14 +0000",
+      "minecraft:dripstone_caves": "2025-10-02 02:54:09 +0000",
       "minecraft:plains": "2025-10-02 02:09:34 +0000"
     },
     "done": false
@@ -3608,6 +3609,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-10-02 02:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-10-02 02:47:27 +0000"
     },
     "done": true
   },
