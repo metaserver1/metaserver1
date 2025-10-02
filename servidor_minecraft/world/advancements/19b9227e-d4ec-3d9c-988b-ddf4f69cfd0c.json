@@ -37,11 +37,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "jade_cliffs": "2025-10-02 04:24:07 +0000",
       "forested_field": "2025-10-01 21:35:45 +0000",
       "spider_nest": "2025-10-02 03:42:03 +0000",
       "mystic_grove": "2025-10-02 03:41:47 +0000",
       "lavender_field": "2025-10-02 03:34:58 +0000",
       "shrubland": "2025-10-01 21:49:08 +0000",
+      "old_growth_woodland": "2025-10-02 04:18:39 +0000",
       "maple_woods": "2025-10-01 21:34:54 +0000",
       "rocky_shrubland": "2025-10-01 21:40:07 +0000",
       "redwood_forest": "2025-10-01 22:16:51 +0000",
@@ -52,8 +54,12 @@
       "orchard": "2025-10-01 21:24:07 +0000",
       "overgrown_greens": "2025-10-02 03:14:15 +0000",
       "highland": "2025-10-01 21:34:51 +0000",
+      "rainforest": "2025-10-02 04:50:34 +0000",
       "jacaranda_glade": "2025-10-02 03:34:50 +0000",
-      "coniferous_forest": "2025-10-01 21:28:33 +0000"
+      "volcano": "2025-10-02 04:18:40 +0000",
+      "coniferous_forest": "2025-10-01 21:28:33 +0000",
+      "pasture": "2025-10-02 04:36:20 +0000",
+      "rocky_rainforest": "2025-10-02 04:20:46 +0000"
     },
     "done": false
   },
@@ -173,13 +179,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-10-02 04:55:14 +0000",
       "minecraft:dark_forest": "2025-10-02 03:14:11 +0000",
       "minecraft:forest": "2025-10-01 21:25:57 +0000",
       "minecraft:taiga": "2025-10-01 21:38:07 +0000",
+      "minecraft:cherry_grove": "2025-10-02 04:35:48 +0000",
       "minecraft:river": "2025-10-01 21:35:54 +0000",
       "minecraft:swamp": "2025-10-02 03:47:00 +0000",
+      "minecraft:meadow": "2025-10-02 04:38:42 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-10-01 22:12:53 +0000",
-      "minecraft:plains": "2025-10-01 22:15:53 +0000"
+      "minecraft:frozen_peaks": "2025-10-02 04:48:43 +0000",
+      "minecraft:plains": "2025-10-01 22:15:53 +0000",
+      "minecraft:jagged_peaks": "2025-10-02 04:22:44 +0000"
     },
     "done": false
   },
@@ -959,8 +970,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-10-02 04:08:32 +0000",
       "mutton": "2025-10-01 21:30:54 +0000",
       "apple": "2025-10-02 03:50:43 +0000",
+      "bread": "2025-10-02 04:08:07 +0000",
       "cooked_mutton": "2025-10-01 22:25:17 +0000",
       "cooked_beef": "2025-10-01 21:52:51 +0000",
       "beef": "2025-10-01 21:35:21 +0000",
@@ -2093,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-10-02 04:37:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2025-10-02 03:20:36 +0000"
@@ -2156,6 +2175,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2025-10-02 03:28:20 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-10-02 04:47:50 +0000"
     },
     "done": true
   },
@@ -2231,6 +2256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-10-02 04:41:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2025-10-02 03:21:15 +0000"
@@ -2285,6 +2316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-10-02 04:41:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_stairs": {
     "criteria": {
       "has_planks": "2025-10-02 03:21:15 +0000"
@@ -2294,6 +2331,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-10-02 03:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-10-02 04:41:17 +0000"
     },
     "done": true
   },
@@ -2423,6 +2466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-10-02 04:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-10-02 03:37:16 +0000"
@@ -2438,6 +2487,12 @@
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_skeleton_trophy": "2025-10-02 03:20:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-10-02 04:37:37 +0000"
     },
     "done": true
   },
