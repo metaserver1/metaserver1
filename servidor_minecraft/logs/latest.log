@@ -458,3 +458,13 @@ java.lang.IllegalStateException: not found
 [02:09:17] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 9.897729556322588,0.0,-18.001509070353677
 [02:13:42] [Server thread/INFO]: MetaPresi was blown up by Creeper
 [02:13:46] [Server thread/INFO]: Byakko4146 was blown up by Creeper
+[02:17:33] [Server thread/WARN]: Oak Boat (vehicle of MetaPresi) moved wrongly! 1.0512161645124252
+[02:19:17] [Server thread/INFO]: Byakko4146 claimed a grave belonging to Byakko4146 at 202, 111, 3851, minecraft:overworld
+[02:19:19] [Server thread/INFO]: Byakko4146 was blown up by Creeper
+[02:19:27] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
+[02:19:51] [Server thread/INFO]: Byakko4146 claimed a grave belonging to Byakko4146 at 204, 109, 3849, minecraft:overworld
+[02:20:28] [Server thread/INFO]: MetaPresi claimed a grave belonging to MetaPresi at 207, 114, 3856, minecraft:overworld
+[02:24:59] [Server thread/INFO]: Byakko4146 has made the advancement [Ice Bucket Challenge]
+[02:41:15] [Server thread/WARN]: Byakko4146 moved too quickly! -1.1627814462447077,-10.277411153802248,-1.0430260737994104
+[02:41:32] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
+[02:42:37] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to MetaPresi]

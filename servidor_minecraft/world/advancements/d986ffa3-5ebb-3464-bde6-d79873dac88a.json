@@ -50,7 +50,8 @@
       "field": "2025-09-30 20:31:19 +0000",
       "overgrown_greens": "2025-10-02 02:08:02 +0000",
       "highland": "2025-10-01 18:19:15 +0000",
-      "coniferous_forest": "2025-09-30 20:51:27 +0000"
+      "coniferous_forest": "2025-09-30 20:51:27 +0000",
+      "pasture": "2025-10-02 02:27:29 +0000"
     },
     "done": false
   },
@@ -542,10 +543,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2025-10-02 02:16:09 +0000",
       "minecraft:forest": "2025-09-30 02:58:43 +0000",
       "minecraft:taiga": "2025-10-01 18:22:00 +0000",
       "minecraft:cherry_grove": "2025-10-02 02:12:22 +0000",
       "minecraft:river": "2025-10-01 18:25:21 +0000",
+      "minecraft:meadow": "2025-10-02 02:34:17 +0000",
       "minecraft:birch_forest": "2025-09-30 03:02:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-30 03:03:14 +0000",
       "minecraft:plains": "2025-10-02 02:09:34 +0000"
@@ -3512,9 +3515,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-10-02 02:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-10-02 02:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-10-02 02:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-10-02 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-10-02 02:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-10-02 02:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-10-02 02:35:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_brown_terracotta": "2025-10-02 02:13:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-10-02 02:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-10-02 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-10-02 02:35:00 +0000"
     },
     "done": true
   },
@@ -3524,9 +3587,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-10-02 02:20:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_glazed_terracotta": {
     "criteria": {
       "has_gray_terracotta": "2025-10-02 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-10-02 02:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-10-02 02:42:32 +0000"
     },
     "done": true
   },
@@ -3535,6 +3616,90 @@
       "in_pyramid_flower_forest": "2025-10-02 02:12:25 +0000"
     },
     "done": false
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-10-02 02:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-10-02 02:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-10-02 02:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-10-02 02:20:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-10-02 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-10-02 02:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-10-02 02:25:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-10-02 02:35:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-10-02 02:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-10-02 02:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-10-02 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-10-02 02:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-10-02 02:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-10-02 02:42:04 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3700
 }
