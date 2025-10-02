@@ -484,3 +484,13 @@ java.lang.IllegalStateException: not found
 [03:03:03] [Netty Epoll Server IO #6/INFO]: [showmeyourskin] Client of UnnAmeD9 accepted server config.
 [03:03:04] [Netty Epoll Server IO #6/INFO]: Channel update: UnnAmeD9 -> default
 [03:03:04] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player UnnAmeD9. Claiming: GRAVE / Robbing: INVENTORY
+[03:06:02] [Server thread/INFO]: [Not Secure] <UnnAmeD9> casa
+[03:06:08] [Server thread/INFO]: [Byakko4146: Teleported UnnAmeD9 to Byakko4146]
+[03:11:08] [Server thread/INFO]: UnnAmeD9 fell from a high place
+[03:11:14] [Server thread/INFO]: [Byakko4146: Teleported UnnAmeD9 to Byakko4146]
+[03:11:21] [Server thread/INFO]: [Byakko4146: Teleported UnnAmeD9 to Byakko4146]
+[03:11:56] [Server thread/INFO]: UnnAmeD9 claimed a grave belonging to UnnAmeD9 at 318, 66, 3505, minecraft:overworld
+[03:13:05] [Server thread/INFO]: [Not Secure] <UnnAmeD9> SOLTAD LA MAYOR
+[03:13:53] [Server thread/INFO]: [Not Secure] <UnnAmeD9> cantante un shanty
+[03:15:17] [Server thread/INFO]: [Not Secure] <UnnAmeD9> si
+[03:15:56] [Server thread/INFO]: [Not Secure] <UnnAmeD9> SOLTAD ANCLA
