@@ -499,3 +499,13 @@ java.lang.IllegalStateException: not found
 [03:20:41] [Server thread/INFO]: [Byakko4146: Teleported Byakko4146 to MetaPresi]
 [03:23:44] [Server thread/INFO]: Byakko4146 claimed a grave belonging to Byakko4146 at -65, 69, 3334, minecraft:overworld
 [03:24:58] [Server thread/INFO]: UnnAmeD9 has made the advancement [Best Friends Forever]
+[03:26:37] [Server thread/INFO]: [Not Secure] <UnnAmeD9> peta
+[03:26:44] [Server thread/INFO]: [Not Secure] <UnnAmeD9> the horse is here
+[03:35:38] [Server thread/INFO]: MetaPresi lost connection: Disconnected
+[03:35:38] [Server thread/INFO]: MetaPresi left the game
+[03:35:51] [Server thread/INFO]: [Byakko4146: Set own game mode to Creative Mode]
+[03:41:05] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:41:05] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:41:05] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:41:05] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:41:05] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
