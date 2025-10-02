@@ -440,3 +440,21 @@ java.lang.IllegalStateException: not found
 [01:57:42] [Netty Epoll Server IO #4/INFO]: [showmeyourskin] Client of MetaPresi accepted server config.
 [01:57:43] [Netty Epoll Server IO #4/INFO]: Channel update: MetaPresi -> "1"
 [01:57:43] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player MetaPresi. Claiming: GRAVE / Robbing: INVENTORY
+[02:09:14] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! -4.331218852103575,0.0,9.24919891293439
+[02:09:14] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! -4.5489770026941585,0.0,9.714215462362063
+[02:09:16] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 12.39948363984331,0.0,-23.059962797228764
+[02:09:16] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 12.39948363984331,0.0,-23.059962797228764
+[02:09:16] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 12.443117761297486,0.0,-23.030660066848668
+[02:09:16] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 12.218761202361492,0.0,-22.561198292538393
+[02:09:16] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 11.994929524893706,0.0,-22.09956502782825
+[02:09:16] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 11.765880092723307,0.0,-21.636144553654503
+[02:09:16] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 11.535769954203971,0.0,-21.178885113424712
+[02:09:16] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 11.304762294927855,0.0,-20.727733384825115
+[02:09:17] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 11.073820725280115,0.0,-20.2784111373021
+[02:09:17] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 10.844628840992698,0.0,-19.83385673075327
+[02:09:17] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 10.617324668537861,0.0,-19.39399973037189
+[02:09:17] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 10.37514582358736,0.0,-18.925358711998342
+[02:09:17] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 10.135280786182278,0.0,-18.46119515865894
+[02:09:17] [Server thread/WARN]: Drakkar (vehicle of Byakko4146) moved too quickly! 9.897729556322588,0.0,-18.001509070353677
+[02:13:42] [Server thread/INFO]: MetaPresi was blown up by Creeper
+[02:13:46] [Server thread/INFO]: Byakko4146 was blown up by Creeper

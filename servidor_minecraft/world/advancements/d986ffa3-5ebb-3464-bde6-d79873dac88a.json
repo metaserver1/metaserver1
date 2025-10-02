@@ -48,6 +48,7 @@
       "grassland": "2025-10-01 18:32:02 +0000",
       "orchard": "2025-09-30 02:52:37 +0000",
       "field": "2025-09-30 20:31:19 +0000",
+      "overgrown_greens": "2025-10-02 02:08:02 +0000",
       "highland": "2025-10-01 18:19:15 +0000",
       "coniferous_forest": "2025-09-30 20:51:27 +0000"
     },
@@ -543,9 +544,11 @@
     "criteria": {
       "minecraft:forest": "2025-09-30 02:58:43 +0000",
       "minecraft:taiga": "2025-10-01 18:22:00 +0000",
+      "minecraft:cherry_grove": "2025-10-02 02:12:22 +0000",
       "minecraft:river": "2025-10-01 18:25:21 +0000",
       "minecraft:birch_forest": "2025-09-30 03:02:38 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-09-30 03:03:14 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-09-30 03:03:14 +0000",
+      "minecraft:plains": "2025-10-02 02:09:34 +0000"
     },
     "done": false
   },
@@ -3508,6 +3511,30 @@
       "has_logs": "2025-10-01 20:56:01 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-10-02 02:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-10-02 02:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-10-02 02:13:05 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_flower_forest": "2025-10-02 02:12:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3700
 }
